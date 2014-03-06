@@ -282,8 +282,8 @@ ul li{list-style-type:disc;}
 }
 .drop{
   position: absolute;
-  left: 100%;
-  bottom: 100%;
+  left: 0;
+  bottom: 0;
   width: 376px;
   display: none;
   padding: 12px;
