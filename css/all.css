@@ -109,12 +109,12 @@ ul li{list-style-type:disc;}
 	width:100%;
 }
 #main{
-	width: 960px;
+	width: 1500px;
 	margin:0 auto;
 }
 .reel-demo{
-  width: 430px;
-  height: 258px;
+  width: 1280px;
+  height: 768px;
   margin:150px auto;
 }
 .reel-indicator{
